@@ -7,7 +7,9 @@
 		".hg",
 		"CVS",
 		"node_modules",
-		"bower_components"
+		"bower_components",
+		"tmp",
+		".sass-cache"
 	],
 	"font_size": 12,
 	"ignored_packages":
