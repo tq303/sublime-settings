@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Babel",
+		"Color Highlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"Handlebars",
+		"HTMLBeautify",
+		"Image2Base64",
+		"Insert Nums",
+		"JavaScriptNext - ES6 Syntax",
+		"JSLint",
+		"LESS",
+		"Markdown Preview",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SideBarEnhancements",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	]
+}
