@@ -14,16 +14,20 @@
 		"HTMLBeautify",
 		"Image2Base64",
 		"Insert Nums",
+		"Jade",
 		"JavaScriptNext - ES6 Syntax",
 		"JSLint",
 		"LESS",
 		"Markdown Preview",
+		"MarkdownHighlighting",
+		"Monokai JSON+",
 		"Oceanic Next Color Scheme",
 		"Package Control",
 		"Pretty JSON",
 		"Sass",
 		"SideBarEnhancements",
 		"Theme - Soda",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"WordCount"
 	]
 }
