@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"MarkdownHighlighting"
 	],
 	"installed_packages":
 	[
@@ -24,6 +25,7 @@
 		"Oceanic Next Color Scheme",
 		"Package Control",
 		"Pretty JSON",
+		"Processing",
 		"Sass",
 		"SideBarEnhancements",
 		"Theme - Soda",
